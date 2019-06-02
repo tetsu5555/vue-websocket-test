@@ -1,6 +1,9 @@
-## backend
+# vue websocket test
+this is repository to test websocket in Vue
 
 ![screenshot](screenshot.png)
+
+## backend
 
 ```bash
 cd backend
